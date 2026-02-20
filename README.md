@@ -1,4 +1,4 @@
-# 🏡 UrbanPalace – Real Estate Management System
+# 🏡 Prime Properties – Real Estate Management System
 
 A full-stack **real estate management platform** built with **Spring Boot (Backend)**, **React (Frontend)**, and **MySQL (Database)**.  
 It provides an end-to-end solution for **property listings, bookings, admin approvals, transactions, and invoice generation** — making property management seamless for both users and admins.
@@ -124,11 +124,11 @@ It provides an end-to-end solution for **property listings, bookings, admin appr
 
 ## 👨‍💻 Author
 
-**Ketan Patil** – Java Backend Developer  
+**Tejas Hiwarale**
 
 💼 Skilled in **Java, Spring Boot, React, MySQL**  
 🚀 Building scalable full-stack applications  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/ketan-patill/)
+🔗 [LinkedIn Profile]((https://www.linkedin.com/in/tejas-hiwarale-4385a0318))
 
 ✨ This project demonstrates a **production-ready Real Estate Management System** integrating powerful backend services with a modern frontend UI.  
 
