@@ -61,7 +61,7 @@ It provides an end-to-end solution for **property listings, bookings, admin appr
 ## 📸 Screenshots
 
 ## 🔐 **Signup/Login** with Spring Security (MySQL-based authentication) 
-<img width="1365" height="640" alt="001" src="https://github.com/user-attachments/assets/1e54d3f4-0641-4df8-8019-b0fb3c03bee4" />
+<img width="1365" height="640" alt="001" src="https://github.com/Tejas-Hiwarale-99/Prime-Property-Partners/blob/main/Front-End/ss/home.jpeg" />
 
 ---
 
