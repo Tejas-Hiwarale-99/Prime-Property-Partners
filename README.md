@@ -128,7 +128,7 @@ It provides an end-to-end solution for **property listings, bookings, admin appr
 
 💼 Skilled in **Java, Spring Boot, React, MySQL**  
 🚀 Building scalable full-stack applications  
-🔗 [LinkedIn Profile]((https://www.linkedin.com/in/tejas-hiwarale-4385a0318))
+🔗 LinkedIn Profile: https://www.linkedin.com/in/tejas-hiwarale-4385a0318
 
 ✨ This project demonstrates a **production-ready Real Estate Management System** integrating powerful backend services with a modern frontend UI.  
 
