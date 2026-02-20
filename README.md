@@ -65,7 +65,7 @@ It provides an end-to-end solution for **property listings, bookings, admin appr
 
 ---
 
-<img width="1365" height="637" alt="Create-User-Page" src="https://github.com/user-attachments/assets/c61049f8-4181-44c5-9985-ab90d166ac84" />
+<img width="1365" height="637" alt="Create-User-Page" src="https://github.com/Tejas-Hiwarale-99/Prime-Property-Partners/blob/main/Front-End/ss/signup.jpeg" />
 
 ---
 
